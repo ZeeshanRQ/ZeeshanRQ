@@ -24,6 +24,7 @@ I'm a software engineer who started in quality assurance and moved into building
 | --- | --- | --- |
 | [TAAQ Solutions website](https://taaqsols.com) | Company website for TAAQ Solutions, deployed on Vercel | React, Vite, Vercel |
 | [Smart Printers website](https://github.com/ZeeshanRQ/smart-printers-website) | Client project: marketing website for Smart Printers, a printing & advertising business | React, Vite, SCSS, Framer Motion |
+| [Ask My Documents](https://github.com/ZeeshanRQ/ask-my-documents) | RAG API: ask questions over your PDF documents | Python, FastAPI, ChromaDB, Ollama |
 | [Print Marketing site](https://github.com/ZeeshanRQ/print-marketing-site) | Practice project: print & promotional products storefront landing page | React, Vite, SCSS, Framer Motion |
 | [EyeCare X test automation](https://github.com/ZeeshanRQ/eyecarex-test-automation) | E2E suite for an eye-care platform: web portal, mobile browser and Android app, with email-OTP automation | Cypress, WebdriverIO, Appium |
 | [Leave Management System](https://github.com/ZeeshanRQ/Practicing-LMS) | Leave application and approval system with authentication | Python, Django |
